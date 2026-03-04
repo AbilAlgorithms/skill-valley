@@ -1,5 +1,10 @@
 # Skill Valley  
 
+![Hackathon](https://img.shields.io/badge/Event-Quasar%20Hackathon-blue)
+![Achievement](https://img.shields.io/badge/Rank-Top%209%20Nationwide-success)
+![Status](https://img.shields.io/badge/Status-Live%20Deployment-brightgreen)
+![Built With](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20JS-orange)
+
 ![Skill Valley Banner](assets/skill-valley-banner-image.png)
 
 🏆 **Nationwide Top 9 – Quasar Hackathon (Medicaps University)**  
