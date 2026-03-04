@@ -1,7 +1,5 @@
 # Skill Valley   
-🏆 Nationwide Top 9 – Quasar Hackathon  
-
-![Skill Valley Banner](assets/skill-valley-banner.png)
+🏆 Nationwide Top 9 – Quasar Hackathon 
 
 🔗 **Live Demo:** https://abilalgorithms.github.io/skill-valley/
 
